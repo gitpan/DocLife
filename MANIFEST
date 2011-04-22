@@ -1,0 +1,16 @@
+Changes
+lib/DocLife.pm
+lib/DocLife/Markdown.pm
+lib/DocLife/Pod.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README.md
+t/00-load.t
+t/01-doclife.t
+t/02-doclife-pod.t
+t/03-doclife-md.t
+t/doc/Test.md
+t/doc/Test2...md
+t/doc/xx/Test3.md
+t/pod.t

@@ -14,7 +14,6 @@ meta-spec:
 name: DocLife
 no_index:
   directory:
-    - example
     - inc
     - t
 requires:
@@ -24,4 +23,4 @@ requires:
   Text::Markdown: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02

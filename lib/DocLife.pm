@@ -2,7 +2,7 @@ package DocLife;
 
 use strict;
 use warnings;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use parent qw( Plack::Component );
 use Cwd 'abs_path';
@@ -186,9 +186,11 @@ Show only files that match the suffix. No url suffix.
 
 L<Plack>
 
-=head1 LICENSE AND COPYRIGHT
+=head1 COPYRIGHT
 
-Copyright Shinichiro Aska.
+Copyright 2013 Shinichiro Aska
+
+=head1 LICENSE
 
 This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
 
